@@ -1,2 +1,2 @@
-# analyzing-banking-transactions
-PFE project
+#financial-data-analytics-solution
+Final year project
