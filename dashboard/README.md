@@ -14,7 +14,7 @@ This dashboard provides a **comprehensive overview of all transactions** across 
 - Transactions by card type and by customer segment  
 - Top-performing agency  
 
-📁 **File:** `files/Global_Transactions_Analysis.pbix`  
+📁 **File:** `dashboard/Dashboards.pbix`  
 🖼️ **Preview:**  
 ![Global Transactions Analysis](global-transactions-dashboard.png)
 
