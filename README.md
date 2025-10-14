@@ -17,17 +17,6 @@ The goal of this project is to build an **end-to-end data analytics platform** i
 
 ---
 
-## 🏗️ System Architecture  
-
-```mermaid
-flowchart LR
-A[Data Sources: Excel & CSV Files] --> B[ETL Process - Talend]
-B --> C[Data Warehouse - PostgreSQL]
-C --> D[Analytics - Power BI Dashboards]
-C --> E[Web Application - Streamlit Interface]
-E --> F[Chatbot - Dialogflow Integration]
-
-
 ## 📈 Business Impact  
 
 ✅ Automated ETL and centralized data integration  
@@ -61,14 +50,15 @@ E --> F[Chatbot - Dialogflow Integration]
 
 ---
 
-## 👩‍💻 Author  
+## 🏗️ System Architecture  
 
-**Chaima Boubakri**  
-🎓 *Business Intelligence Student — Final Year Project*  
-
-🔗 [LinkedIn](https://linkedin.com/in/chaima-boubakri/)  
-
----
+```mermaid
+flowchart LR
+A[Data Sources: Excel & CSV Files] --> B[ETL Process - Talend]
+B --> C[Data Warehouse - PostgreSQL]
+C --> D[Analytics - Power BI Dashboards]
+C --> E[Web Application - Streamlit Interface]
+E --> F[Chatbot - Dialogflow Integration]
 
 ⭐ *If you find this project inspiring, feel free to star the repository and share your feedback!*
 
