@@ -36,7 +36,7 @@ flowchart LR
 ✅ Automated ETL and centralized data integration  
 ✅ Improved data quality and accessibility  
 ✅ Advanced data visualization for financial insights  
-✅ AI-assisted decision support
+✅ AI-assisted decision support<br>
 ✅ Real-time data interaction 
 
 ---
