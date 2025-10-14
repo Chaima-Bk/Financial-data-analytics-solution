@@ -4,6 +4,8 @@ A collection of **interactive Power BI dashboards** designed to analyze **bankin
 These dashboards provide key insights to support **financial decision-making, customer management, and fraud detection**.  
 
 ---
+📁 **File:**
+[Dashboards.pbix](./dashboard/Dashboards.pbix) 
 
 ### 💳 Global Transactions Analysis  
 This dashboard provides a **comprehensive overview of all transactions** across agencies and clients.  
@@ -13,9 +15,6 @@ This dashboard provides a **comprehensive overview of all transactions** across 
 - Monthly transaction trends  
 - Transactions by card type and by customer segment  
 - Top-performing agency  
-
-📁 **File:**
-[Dashboards.pbix](./dashboard/Dashboards.pbix) 
 
 🖼️ **Preview:**  
 ![Global Transactions Analysis](global-transactions-dashboard.png)
@@ -31,7 +30,6 @@ This dashboard focuses on **customer segmentation and account performance**.
 - Top 4 account categories by number of transactions  
 - Account growth across years  
 
-📁 **File:** `files/Clients_Accounts_Analysis.pbix`  
 🖼️ **Preview:**  
 ![Clients and Accounts Analysis](clients-accounts-dashboard.png)
 
@@ -44,7 +42,6 @@ This dashboard highlights **unusual or suspicious transactions** that may indica
 - Total and average anomaly amounts  
 - Anomalies by transaction type and channel  
 - List of anomalies with transaction IDs and comments  
-
-📁 **File:** `files/Transaction_Anomalies_Insights.pbix`  
+ 
 🖼️ **Preview:**  
 ![Transaction Anomalies Insights](transaction-anomalies-dashboard.png)
