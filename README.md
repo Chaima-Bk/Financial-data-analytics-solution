@@ -27,6 +27,51 @@ C --> D[Analytics - Power BI Dashboards]
 C --> E[Web Application - Streamlit Interface]
 E --> F[Chatbot - Dialogflow Integration]
 
+---
+
+## 📈 Business Impact  
+
+✅ Automated ETL and centralized data integration  
+✅ Improved data quality and accessibility  
+✅ Advanced data visualization for financial insights  
+✅ AI-assisted decision support
+✅ Real-time data interaction 
+
+---
+
+## 🧰 Technologies Used  
+
+| **Category** | **Tools & Technologies** |
+|---------------|--------------------------|
+| ETL | Talend Open Studio |
+| Data Modeling | Star Schema |
+| Database | PostgreSQL |
+| Visualization | Power BI Dashboards/ Power BI Service |
+| Web Development | Streamlit, Flask |
+| AI / NLP | Dialogflow |
+| Security | bcrypt, psycopg2 |
+
+---
+
+## 🧾 Results  
+
+- Clean, consistent data integrated in PostgreSQL   
+- Dynamic Power BI dashboards for deep analytics  
+- Functional web application connected to the Data Warehouse  
+- Smart chatbot answering analytical questions in real-time  
+
+---
+
+## 👩‍💻 Author  
+
+**Chaima Boubakri**  
+🎓 *Business Intelligence Student — Final Year Project*  
+
+🔗 [LinkedIn](https://linkedin.com/in/chaima-boubakri/)  
+
+---
+
+⭐ *If you find this project inspiring, feel free to star the repository and share your feedback!*
 
 
 
