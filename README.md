@@ -27,8 +27,6 @@ C --> D[Analytics - Power BI Dashboards]
 C --> E[Web Application - Streamlit Interface]
 E --> F[Chatbot - Dialogflow Integration]
 
----
-
 
 ## 📈 Business Impact  
 
