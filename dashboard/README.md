@@ -32,7 +32,7 @@ This dashboard focuses on **customer segmentation and account performance**.
 - Account growth across years  
 
 🖼️ **Preview:**  
-![Clients and Accounts Analysis](clients-accounts-dashboard.png)
+![Clients and Accounts Analysis](../images/dashboards/Accounts_Clients.png)
 
 ---
 
