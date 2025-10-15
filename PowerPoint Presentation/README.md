@@ -27,6 +27,8 @@ The slides are organized into six main sections:
 ---
 
 ## 📁 Files  
-- `PowerPoint Presentation/Presentation-Final-year-Project (english_version).pptx` → PowerPoint presentation file 
+- [PowerPoint Presentation/Presentation-Final-year-Project (english_version).pptx](PowerPoint%20Presentation/Presentation-Final-year Project%20(english_version).pptx) → PowerPoint presentation file  
+
+
 
 
