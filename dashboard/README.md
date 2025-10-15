@@ -17,7 +17,7 @@ This dashboard provides a **comprehensive overview of all transactions** across 
 - Top-performing agency  
 
 🖼️ **Preview:**  
-![Global Transactions Analysis](global-transactions-dashboard.png)
+![Global Transactions Analysis](Transactions.png)
 
 ---
 
