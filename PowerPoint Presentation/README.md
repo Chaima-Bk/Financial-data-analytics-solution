@@ -24,11 +24,6 @@ The slides are organized into six main sections:
 - Project graded **18/20 – Highest Honors**  
 - Recognized by the jury for **innovation, technical excellence, and business impact**
 
----
-
-## 📁 Files  
-- [Download PowerPoint Presentation](./PowerPointPresentation/Presentation-Final-year-Project(english_version).pptx) → PowerPoint presentation file
-
    
 
 
