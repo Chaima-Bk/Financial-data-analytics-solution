@@ -2,7 +2,7 @@
 
 ### 🎓 Final Year Project — Business Intelligence & Data Engineering  
 
-This project presents the **design and implementation of a complete Business Intelligence system** for analyzing financial transactions, detecting anomalies, and supporting decision-making in the banking sector.  
+This project presents the **design and implementation of a complete Business Intelligence system** for analyzing financial transactions and supporting decision-making in the banking sector.  
 
 ---
 
