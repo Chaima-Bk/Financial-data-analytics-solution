@@ -37,7 +37,7 @@ flowchart LR
 ✅ Improved data quality and accessibility  
 ✅ Advanced data visualization for financial insights  
 ✅ AI-assisted decision support<br>
-✅ Real-time data interaction 
+✅ Centralized visualization and exploration of analytics results in a Streamlit web application
 
 ---
 
